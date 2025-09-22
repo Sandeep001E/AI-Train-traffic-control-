@@ -1,0 +1,18 @@
+# Web
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.2.1
+
+# DB & Cache
+sqlalchemy==2.0.23
+redis==5.0.1
+
+# OR / Optimization
+pulp==2.7.0
+
+# Utils
+psutil==5.9.8
+structlog==23.2.0
+python-dotenv==1.0.0
+pyyaml==6.0.1
